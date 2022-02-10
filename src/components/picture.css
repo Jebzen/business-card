@@ -1,0 +1,9 @@
+.picture{
+    background-color: white;
+    border-radius: 10px 10px 0px 0px;
+    background-image: url('jeppe.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 350px;
+}
