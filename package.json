@@ -12,7 +12,7 @@
     "react-scripts": "^5.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://business/jebzen.dk",
+  "homepage": "https://github.jebzen.dk/business-card/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
